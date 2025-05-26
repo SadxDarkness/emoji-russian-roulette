@@ -1,3 +1,3 @@
 main {
-    font-family: "Press Start 2P", system-ui;
+    @include flexbox(center, center, column, wrap, 50px);
 }

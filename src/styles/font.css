@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "DoomFont";
+  src: url("../assets/font/doomcopy.ttf") format("truetype");
+}
+
+html {
+  font-family: "DoomFont", sans-serif;
+}
